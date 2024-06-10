@@ -1,6 +1,3 @@
-## Next.js App Router Course - Starter
+## Full stack app using Next.js(React), tailwindcss, Vercel, PostgreSQL.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
-# super-next
+And such features of next.js as streaming data, dynamic and static rendering of pages and elements, partial prerendering, metadata creation, authentication, handling errors, data mutation, search and pagination, debouncing, SEO, shift prevention for fonts and images and more.
